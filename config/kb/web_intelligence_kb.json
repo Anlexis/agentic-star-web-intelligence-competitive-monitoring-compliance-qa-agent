@@ -1,0 +1,92 @@
+[
+  {
+    "id": "kb-001",
+    "title": "Competitor pricing tier claims for the enterprise SaaS subscription",
+    "category": "pricing_claims",
+    "source_url": "https://intel.example.com/reports/enterprise-tier-pricing-2026-06",
+    "retrieved_at": "2026-06-02",
+    "tags": ["pricing", "subscription", "premium", "tier", "discount", "enterprise", "claims"],
+    "content": "The competitor's enterprise subscription tier is advertised as offering guaranteed savings of up to 40 percent versus the industry average, and the rate card copy describes the plan as the best value in the market. Three tiers are published (standard, professional, enterprise) with the enterprise tier positioned as a flat annual rate with no usage overage. The published material does not cite a comparison methodology or a named industry-average source for the savings figure."
+  },
+  {
+    "id": "kb-002",
+    "title": "Spring campaign messaging for the flagship product launch",
+    "category": "campaign_claims",
+    "source_url": "https://intel.example.com/reports/spring-launch-campaign-2026-04",
+    "retrieved_at": "2026-04-18",
+    "tags": ["campaign", "launch", "marketing", "claims", "advertising", "product"],
+    "content": "Launch advertising copy for the spring release states the product delivers number one customer satisfaction in its category and reports zero recorded defects across the beta cohort. The campaign landing page repeats the number one claim in three separate placements but does not link to the underlying survey methodology, sample size, or the period covered by the defect count."
+  },
+  {
+    "id": "kb-003",
+    "title": "AI-powered recommendation engine feature sheet",
+    "category": "ai_disclosure",
+    "source_url": "https://intel.example.com/reports/recommendation-engine-feature-sheet-2026-05",
+    "retrieved_at": "2026-05-11",
+    "tags": ["ai", "artificial intelligence", "machine learning", "feature", "disclosure", "gpai", "recommendation"],
+    "content": "The competitor's product sheet promotes a new AI-powered recommendation engine that personalises search results using a machine learning model trained on aggregate usage data. The sheet does not include a model card, a summary of training data sources, or any disclosure statement describing the system's general-purpose AI capability or its intended use boundaries."
+  },
+  {
+    "id": "kb-004",
+    "title": "Market share estimate disclosure in investor relations material",
+    "category": "market_positioning",
+    "source_url": "https://intel.example.com/reports/investor-relations-market-share-2026-03",
+    "retrieved_at": "2026-03-07",
+    "tags": ["market", "share", "positioning", "investor", "estimate", "segment"],
+    "content": "Investor relations material discloses an estimated regional market share range for the mid-market segment, sourced from a named third-party analyst report and presented with an explicit confidence interval. The material states the estimate is directional and should not be read as an audited figure, and it discloses the analyst firm and publication quarter."
+  },
+  {
+    "id": "kb-005",
+    "title": "Press contact and customer testimonial handling in campaign material",
+    "category": "personal_data_practice",
+    "source_url": "https://intel.example.com/reports/press-kit-testimonials-2026-06",
+    "retrieved_at": "2026-06-20",
+    "tags": ["personal data", "contact", "press", "testimonial", "privacy", "campaign"],
+    "content": "The campaign press kit lists a named customer testimonial described as verified by internal records, alongside a media contact line reading press inquiries can be directed to the media relations desk at pressteam@example.com or by phone at 03-1234-5678. The kit does not state the consent basis under which the testimonial or the individual's name was published."
+  },
+  {
+    "id": "kb-006",
+    "title": "Discount guarantee claims in the quarterly promotions bulletin",
+    "category": "pricing_claims",
+    "source_url": "https://intel.example.com/reports/quarterly-promotions-bulletin-2026-05",
+    "retrieved_at": "2026-05-29",
+    "tags": ["discount", "guarantee", "promotion", "claims", "pricing"],
+    "content": "The quarterly promotions bulletin advertises a guaranteed lowest price match and describes the current seasonal bundle as unbeatable against any named or unnamed competitor. No expiry date, matching procedure, or list of excluded products accompanies the guarantee language in the bulletin excerpt retrieved."
+  },
+  {
+    "id": "kb-007",
+    "title": "Free trial onboarding messaging",
+    "category": "campaign_claims",
+    "source_url": "https://intel.example.com/reports/free-trial-onboarding-copy-2026-04",
+    "retrieved_at": "2026-04-30",
+    "tags": ["trial", "risk-free", "onboarding", "claims", "guarantee"],
+    "content": "Onboarding flow copy for the free trial describes the offer as completely risk-free and backed by a 100 percent money-back guarantee with no conditions stated. The cancellation terms and the guarantee's eligibility window are not shown on the same screen as the claim."
+  },
+  {
+    "id": "kb-008",
+    "title": "Generative AI chatbot feature rollout announcement",
+    "category": "ai_disclosure",
+    "source_url": "https://intel.example.com/reports/chatbot-rollout-announcement-2026-06",
+    "retrieved_at": "2026-06-09",
+    "tags": ["generative ai", "chatbot", "feature", "rollout", "disclosure", "ai"],
+    "content": "A rollout announcement introduces a generative AI chatbot embedded in the support workflow, describing it as capable of drafting full customer responses automatically. The announcement does not disclose that responses are AI-generated to end users, nor does it reference an evaluation process or a human-review step before a response is sent."
+  },
+  {
+    "id": "kb-009",
+    "title": "Regional market entry and localization strategy brief",
+    "category": "market_positioning",
+    "source_url": "https://intel.example.com/reports/regional-entry-localization-2026-02",
+    "retrieved_at": "2026-02-14",
+    "tags": ["market", "entry", "localization", "strategy", "regional", "expansion"],
+    "content": "A strategy brief outlines a phased regional market entry plan, including localization of product documentation and a staged partner-channel rollout across three target regions over four quarters. The brief cites internal planning assumptions and does not make comparative or superlative claims about competitors."
+  },
+  {
+    "id": "kb-010",
+    "title": "Data handling statement referenced in the competitor's privacy notice",
+    "category": "personal_data_practice",
+    "source_url": "https://intel.example.com/reports/privacy-notice-data-handling-2026-05",
+    "retrieved_at": "2026-05-03",
+    "tags": ["privacy", "data handling", "personal data", "notice", "retention"],
+    "content": "The competitor's public privacy notice describes categories of personal data collected during account signup and states a general retention period, with a named contact channel for data-subject requests. The excerpt retrieved discusses data-handling practice at a policy level and does not itself contain any individual's personal data."
+  }
+]

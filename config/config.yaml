@@ -1,0 +1,16 @@
+# Runtime parameters — loaded by the agent registry and passed as Graph(config=...).
+# Separate from config/agent.yaml, which is the static manifest.
+
+# Retry budget for the backbone's routing decision.
+max_retry: 3
+# Request timeout in seconds, honoured by framework service clients.
+timeout_s: 30
+
+# Retrieval tuning. Forwarded to the inner workflow by
+# ComplianceQAGraphNode._parent_config() and republished into inner state by
+# DomainWorkflowGraph._extra_initial_state(), where RetrieveNode and
+# RerankFilterNode read it.
+retrieval:
+  top_k: 4
+  score_threshold: 0.25
+  kb_path: "config/kb/web_intelligence_kb.json"
